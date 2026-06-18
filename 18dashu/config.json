@@ -1,0 +1,138 @@
+{
+  "spider": "./jar/xyq.jar",
+  "wallpaper": "https://picsum.photos/1080/",
+  "sites": [
+    {
+      "key": "好色TV[密]",
+      "name": "公众号【白虾工具】搜集整合",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/a好色TV[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "好色™ Tv[密]",
+      "name": "好色™ Tv[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/b好色™ Tv[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "色播聚合[密]",
+      "name": "色播聚合[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/c色播聚合[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "随机小姐姐[密]",
+      "name": "随机小姐姐[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/d随机小姐姐[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "妲己[密]",
+      "name": "妲己[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/f妲己[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "瑟瑟直播[密]",
+      "name": "瑟瑟直播[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/g瑟瑟直播[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "免翻好色TV[密]",
+      "name": "免翻好色TV[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/h免翻好色TV[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "黄色仓库[密]",
+      "name": "黄色仓库[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/j黄色仓库[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "神秘影院[密]",
+      "name": "k神秘影院[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/k神秘影院[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "小红薯App[密]",
+      "name": "小红薯App[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/e小红薯App[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "推特APP[密]",
+      "name": "推特APP[密].py",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/i推特APP[密].py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "推特APP",
+      "name": "百度贴吧-软件分享吧",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "./ext/apiv323推特APP.py",
+      "order_num": 5,
+      "ext": ""
+    }
+  ]
+}
